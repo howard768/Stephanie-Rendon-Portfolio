@@ -80,13 +80,13 @@ export const workItems = {
       id: 'narrative-impact-1',
       title: '2024 Annual Impact Report: Improving Health, Impacting Lives',
       link: 'https://issuu.com/fiupublications/docs/4965759993_stmpl_2024annualreport-issuu?fr=sYWYwYTYzMjg1Mjk',
-      thumbnail: '/assets/2024-impact-cover.jpg'
+      thumbnail: '/Stephanie-Rendon-Portfolio/assets/2024-impact-cover.jpg'
     },
     {
       id: 'narrative-impact-2',
       title: '2023 Annual Impact Report: Building the Next Generation of Leaders',
       link: 'https://issuu.com/fiupublications/docs/stmpl_2023_public_health_impact_report_4965759993?fr=sZjdlMzYzMjg1Mjk',
-      thumbnail: '/assets/2023-impact-cover.jpg'
+      thumbnail: '/Stephanie-Rendon-Portfolio/assets/2023-impact-cover.jpg'
     }
   ],
   'videos': [

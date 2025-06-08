@@ -25,7 +25,7 @@ function AboutMe() {
       }}
     >
       <img
-        src="/steph_phot.PNG"
+        src="/Stephanie-Rendon-Portfolio/steph_phot.png"
         alt="Stephanie Rendon portrait"
         style={{
           width: 120,
